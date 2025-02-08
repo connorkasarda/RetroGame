@@ -1,0 +1,7 @@
+/build/
+*~
+*.bak
+*.tmp
+.vscode/
+.idea/
+*.swp
